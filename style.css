@@ -175,3 +175,39 @@ nav li {
     font-weight: 700;
     padding: 60px 60px;
 }
+
+.buton2{
+    border-radius: 5px;
+    background: #f8f6f5;
+    border: 0;
+    color: rgb(236, 65, 65);
+    font-size: 15px;
+    font-weight: 00;
+    padding: 13px 28px;
+}
+
+.always-keep{
+    padding-bottom: 40px;
+}
+
+.main-cont{
+    padding-bottom: 50px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #151414;
+    color: white;
+    padding-top: 50px;
+    height: 80% ;
+}
+
+.left-side-foot{
+    padding-left: 30px;
+    width: 30%;
+
+}
+.right-side-foot{
+    padding-right: 50px;
+}
